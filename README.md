@@ -15,19 +15,29 @@ This is a simple script that creates a dynamic banner in PHP to display on your 
 - Internet connection
 
 ## Installation
-1. Clone or download this repository to your local machine.
-2. Transfer the termux-php-banner.php file to your Android device using methods like ADB or file transfer apps.
+1. Install PHP by running the following command:
+```
+pkg install php
+```
+  
+2. Clone or download this repository to your local machine.
+```
+git clone --depth=1 https://github.com/thedeveloper03/BANNER-PHP.git
+```
 3. Open Termux and navigate to the directory where you transferred the termux-php-banner.php file.
-4. Install PHP by running the following command:
-      pkg install php
-   
+```
+cd BANNER-PHP
+``` 
 5. Grant permission to run PHP script by executing:
-      chmod +x termux-php-banner.php
+```
+chmod +x php-Adv.php
+```
    
-
 ## Usage
 To run the PHP banner, simply execute the following command in your Termux terminal:
-php termux-php-banner.php
+```
+php Adv.php
+```
 
 The banner will be displayed with the default settings.
 
