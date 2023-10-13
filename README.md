@@ -1,4 +1,4 @@
-# Termux PHP Banner
+# PHP Banner
 
 This is a simple script that creates a dynamic banner in PHP to display on your Termux terminal. The banner can be customized with different colors, text, and ASCII art.
 
@@ -8,7 +8,6 @@ This is a simple script that creates a dynamic banner in PHP to display on your 
 - Usage
 - Customization
 - Contributing
-- License
 
 ## Requirements
 - Android device with Termux installed
@@ -56,8 +55,6 @@ Save the changes and follow the Installation and Usage steps to see your customi
 ## Contributing
 Contributions are welcome! If you would like to enhance the features, fix any bugs, or add improvements to this project, please feel free to fork this repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License.
   <sub>Copyright © 2023 - <a href="https://github.com/thedeveloper03">The Developer</sub></a> 
      </div> 
      <br/> 
