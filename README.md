@@ -58,3 +58,8 @@ Contributions are welcome! If you would like to enhance the features, fix any bu
 
 ## License
 This project is licensed under the MIT License.
+  <sub>Copyright © 2023 - <a href="https://github.com/thedeveloper03">The Developer</sub></a> 
+     </div> 
+     <br/> 
+     💖 
+ </div>
