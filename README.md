@@ -1,4 +1,4 @@
-# PHP Banner
+# PHP Banner V1
 
 This is a simple script that creates a dynamic banner in PHP to display on your Termux terminal. The banner can be customized with different colors, text, and ASCII art.
 
